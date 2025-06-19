@@ -1,4 +1,4 @@
-# 🧠 People Analytics Dashboard | Power BI
+# People Analytics Dashboard | Power BI
 
 A one-page dashboard that turns HR data into a visual story 😝 
 From employee satisfaction to attrition trends, diversity insights, and performance metrics.
@@ -9,7 +9,7 @@ This dashboard was built with love (and Power BI) to explore what it means to un
 
 ---
 
-## 📊 What's Inside
+## What's Inside
 
 - **Engagement & Satisfaction Scores**  
 - **Attrition Rate** (with term reason breakdown)  
@@ -21,7 +21,7 @@ Everything is wrapped in a clean, structured layout — and built to be as actio
 
 ---
 
-## 🗂 Dataset Used
+## Dataset Used
 
 **Human Resources Data Set**  
 By Dr. Rich Huebner and Dr. Carla Patalano  
@@ -36,14 +36,14 @@ This dataset contains:
 
 ---
 
-## 💡 Why This Dashboard Matters
+## Why This Dashboard Matters
 
 People Analytics is about more than just dashboards — it’s about understanding the *why* behind the numbers.  
 This project was my attempt to do just that — to explore how hiring patterns, satisfaction levels, and demographic trends all work together to shape employee outcomes.
 
 ---
 
-## 🔗 Preview
+## Preview
 
 ![Dashboard Preview](./screenshots/dashboard.jpeg)
 
