@@ -44,7 +44,7 @@ This project was my attempt to do just that — to explore how hiring patterns, 
 
 ## 🔗 Preview
 
-![Dashboard Preview](./screenshots/people-analytics-dashboard.png)
+![Dashboard Preview](./screenshots/dashboard.jpeg)
 
 > Made with Power BI  
 > Designed & developed by [@Mariam](https://www.linkedin.com/in/your-link-here)
