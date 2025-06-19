@@ -1,6 +1,7 @@
 # 🧠 People Analytics Dashboard | Power BI
 
-A one-page dashboard that turns HR data into a visual story — from employee satisfaction to attrition trends, diversity insights, and performance metrics.
+A one-page dashboard that turns HR data into a visual story 😝 
+From employee satisfaction to attrition trends, diversity insights, and performance metrics.
 
 After an interview for a data analytics intern position in the People Analytics department (👀 manifesting), I realized I hadn’t really worked on anything HR-specific. So I challenged myself to change that.
 
@@ -47,7 +48,7 @@ This project was my attempt to do just that — to explore how hiring patterns, 
 ![Dashboard Preview](./screenshots/dashboard.jpeg)
 
 > Made with Power BI  
-> Designed & developed by [@Mariam](https://www.linkedin.com/in/your-link-here)
+> Designed & developed by [@Mariam](https://www.linkedin.com/in/mariam-rehan-/)
 
 ---
 
